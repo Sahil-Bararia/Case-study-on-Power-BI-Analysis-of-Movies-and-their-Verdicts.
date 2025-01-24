@@ -21,11 +21,9 @@ The correlation between worldwide box office revenue and critical/audience verdi
 Movies classified as **"All Time Blockbuster"** significantly outperform others in revenue, which aligns with expectations.
 
 
-# According to the data, analyze the correlation between a movie's box office
-# revenue and its critical or audience verdict, and identify any trends or
-# patterns that emerge from this analysis.
+# According to the data, analyze the correlation between a movie's box office revenue and its critical or audience verdict, and identify any trends or patterns that emerge from this analysis.
 
 The correlation between a movie's budget and its worldwide box office revenue is **0.83**, indicating a strong positive relationship. This suggests that higher-budget movies generally earn more revenue.
 
-## Higher Investment = Higher Returns
+ Higher Investment = Higher Returns
 Big-budget movies tend to perform better, likely due to better marketing, production quality, and star power.
